@@ -1,6 +1,6 @@
 name: "pu'reh"
 favicon: null
-layout_spectrum: 0.1955219805240631
+layout_spectrum: 1
 typography_spectrum: 0.7804408231750131
 title: "pu'reh"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7792738135904074
-  lightness: 0.7517449194565415
-  saturation: 0.7532013703603297
-  rhythmicContrast: 0.2337881256826222
+    - '#ffffff'
+    - '#8aa3cf'
+    - '#e0c6c3'
+    - '#937985'
+    - '#6f5b63'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
